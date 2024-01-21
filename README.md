@@ -7,12 +7,16 @@ Welcome to the Stock Trader and Analyzer Discord Bot, a specialized bot designed
 **Stock Trading Simulation:** Users can simulate stock trading activities within the Discord environment.
 
 **Stock Analysis:** Provides analytical tools and data for informed trading decisions.
+
 **Leaderboard System:** Tracks and displays users' trading results over time, fostering a competitive and engaging community.
+
 **Data-Driven Insights:** Utilizes yfinance for real-time stock data and numpy/pandas for efficient data handling and chart generation.
 
 ## Technology Stack
 **Programming Language:** Python
+
 **Libraries:** yfinance, numpy, pandas
+
 **Platform:** Discord
 
 ## Setup and Installation
